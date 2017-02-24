@@ -7,4 +7,5 @@ var App = function () {
 };
 
 var app = new App();
+
 app.get = function () {};
