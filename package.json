@@ -1,0 +1,23 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "test project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valerykatskel/test.git"
+  },
+  "keywords": [
+    "test",
+    "study"
+  ],
+  "author": "Valery Katskel <ne.vse.srazu@gmail.com> (http://valprojects.net)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/valerykatskel/test/issues"
+  },
+  "homepage": "https://github.com/valerykatskel/test#readme"
+}

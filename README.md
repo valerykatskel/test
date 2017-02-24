@@ -1,2 +1,2 @@
-# test
-test description
+### Test project
+Test project for study
