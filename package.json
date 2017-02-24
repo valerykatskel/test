@@ -4,6 +4,8 @@
   "description": "test project",
   "main": "index.js",
   "scripts": {
+    "build": "webpack",
+    "lint": "eslint ./src",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -19,5 +21,12 @@
   "bugs": {
     "url": "https://github.com/valerykatskel/test/issues"
   },
-  "homepage": "https://github.com/valerykatskel/test#readme"
+  "homepage": "https://github.com/valerykatskel/test#readme",
+  "dependencies": {
+    "jquery": "^3.1.1"
+  },
+  "devDependencies": {
+    "eslint": "^3.16.1",
+    "webpack": "^2.2.1"
+  }
 }
