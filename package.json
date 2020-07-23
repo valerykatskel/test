@@ -27,7 +27,7 @@
   },
   "devDependencies": {
     "css-loader": "^0.26.1",
-    "eslint": "^3.16.1",
+    "eslint": "^7.5.0",
     "less": "^2.7.2",
     "less-loader": "^2.2.3",
     "style-loader": "^0.13.1",
